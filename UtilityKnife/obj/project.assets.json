@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\Sarah\\UtilityKnife\\UtilityKnife\\UtilityKnife.csproj",
+      "projectUniqueName": "C:\\Github\\John\\UtilityKnife\\UtilityKnife\\UtilityKnife.csproj",
       "projectName": "UtilityKnife",
-      "projectPath": "C:\\Github\\Sarah\\UtilityKnife\\UtilityKnife\\UtilityKnife.csproj",
+      "projectPath": "C:\\Github\\John\\UtilityKnife\\UtilityKnife\\UtilityKnife.csproj",
       "packagesPath": "C:\\Users\\nice8\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\Sarah\\UtilityKnife\\UtilityKnife\\obj\\",
+      "outputPath": "C:\\Github\\John\\UtilityKnife\\UtilityKnife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
