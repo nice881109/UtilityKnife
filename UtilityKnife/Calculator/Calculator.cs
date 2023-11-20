@@ -12,17 +12,10 @@ namespace UtlityKnife.Calculator
         {
             return x - y;
         }
-        public static int Multiply(int x, int y) 
+        public static int Multiply(int x, int y)
         {
             return x * y;
         }
-        public static int Division(int x, int y) 
-        {
-            return x / y;
-        }
-        public static double Division(double x, double y) 
-        {
-            return x / y;
-        }
+
     }
 }
