@@ -2,13 +2,13 @@
 
 namespace UtlityKnife.Calculator
 {
-    public class Calculator
+    public static class Calculator
     {
-        public static int Add(int x, int y)
+        public static double Add(double x, double y)
         {
             return x + y;
         }
-        public static Subtract(int x, int y)
+        public static double Subtract(double x, double y)
         {
             return x - y;
         }
